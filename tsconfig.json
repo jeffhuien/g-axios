@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "types": ["./types"],
+    "moduleResolution": "nodenext",
+    "module": "NodeNext"
+  },
+  "include": ["src"]
+}

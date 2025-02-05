@@ -1,0 +1,1 @@
+interface APIResponse<T> {}
